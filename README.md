@@ -1,4 +1,4 @@
-#Sveiki!
+Sveiki!
 
 Esu Robertas K., IV-o kurso, VU MIF Statistikos studentas.
 
